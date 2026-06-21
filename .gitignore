@@ -1,0 +1,14 @@
+# Large data / model files (exceed GitHub 100MB limit)
+*.zip
+*.ckpt
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.ipynb_checkpoints/
+
+# Env
+.venv/
+venv/
+.env
