@@ -10,3 +10,10 @@
 | 권용우 | 2026172943 |  
 | 정다훈 | 2026214968 |  
 | 윤지상 | 2026211678 |  
+
+
+## 데이터셋 주소
+https://drive.google.com/drive/folders/1IKa4AqApXu1Yt9Dxkhiij_lzJTxZRbmF
+
+## 발표 영상 링크
+https://youtu.be/W0U-sPfBFhg
